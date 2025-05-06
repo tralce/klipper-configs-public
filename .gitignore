@@ -1,0 +1,5 @@
+*.backup
+*.bkp
+printer-*.cfg
+octo*
+fluidd.cfg
